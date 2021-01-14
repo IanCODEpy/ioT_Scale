@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707483708120",
+    "firebase_url": "https://nodemcu-6241e.firebaseio.com",
+    "project_id": "nodemcu-6241e",
+    "storage_bucket": "nodemcu-6241e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707483708120:android:4ab002b574ede07c3845ad",
+        "android_client_info": {
+          "package_name": "com.example.ledcontrolfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707483708120-jl1ppt6bs5ueusfp1i1n02hnt2k454r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ledcontrolfirebase",
+            "certificate_hash": "237a4386fa6ee8392c06d28dff14bd5812982ac3"
+          }
+        },
+        {
+          "client_id": "707483708120-6j5o9p7h62gnqakd6ke390anse7ldk0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0_wXH3jjlIJ-K2i9Lea8C-rtSBuT5gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707483708120-6j5o9p7h62gnqakd6ke390anse7ldk0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
